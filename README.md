@@ -42,7 +42,9 @@ wkhtmltopdf --version
 
 The output should be:
 
+```bash
 wkhtmltopdf 0.12.6 (with patched qt)
+```
 
 ### 5. Restart Frappe/ERPNext Services
 Restart all services to apply the changes:
